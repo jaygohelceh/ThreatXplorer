@@ -115,7 +115,6 @@ AbuseIPDB:
   Reports: 120
 
 [!] Verdict: MALICIOUS
-
 ```
 ---
 
