@@ -52,7 +52,7 @@ Follow the steps below to set up **ThreatXplorer**:
 
 ```bash
 ### Clone the Repository
-git clone https://github.com/your-username/ThreatXplorer.git
+git clone https://github.com/jaygohelceh/ThreatXplorer.git
 cd ThreatXplorer
 
 ### Create Virtual Environment
