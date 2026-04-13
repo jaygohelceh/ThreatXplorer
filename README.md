@@ -60,10 +60,10 @@ python3 -m venv venv
 
 ### Activate Virtual Environment
 
-Linux / macOS
+## Linux / macOS
 source venv/bin/activate
 
-Windows
+## Windows
 venv\Scripts\activate
 
 ### Install Dependencies
